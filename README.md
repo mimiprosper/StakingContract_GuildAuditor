@@ -1,4 +1,4 @@
-## Staking Smart Contract test using fuzz and invariants testing.
+## Staking Smart Contract test using fuzzing and invariants.
 
 ## Foundry
 
